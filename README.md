@@ -28,8 +28,8 @@ Plot the images using plt.imshow().
  
 ## Program:
 ```Python
-Developed By: Kersoan P
-Register  No: 212221230050
+Developed By: Gunaseelan G
+Register  No: 212221230031
 ```
 
 ``` Python
@@ -75,16 +75,19 @@ plt.axis('off')
 ## Output:
 
 ### Display the input Image
+![out1](https://github.com/Guru-Guna/Implementation-of-Erosion-and-Dilation/assets/93427255/fd371568-463a-4f82-8c64-3db79ee592c6)
 
-![](output1.png)
+
 
 ### Display the Eroded Image
+![out2](https://github.com/Guru-Guna/Implementation-of-Erosion-and-Dilation/assets/93427255/10c1fbc7-e81c-432d-9827-b2a151933046)
 
-![](output2.png)
+
 
 ### Display the Dilated Image
+![out3](https://github.com/Guru-Guna/Implementation-of-Erosion-and-Dilation/assets/93427255/deb38200-7c37-4936-a63a-096d256e6831)
 
-![](output3.png)
+
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
